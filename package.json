@@ -1,0 +1,9 @@
+{
+  "name": "cf-lens-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix cflens",
+    "dev": "npm start --prefix cflens"
+  }
+}
