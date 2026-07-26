@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CF-Lens/static/css/main.f855e6bc.css",
+    "main.js": "/CF-Lens/static/js/main.978698eb.js",
+    "static/js/453.fd1fb38f.chunk.js": "/CF-Lens/static/js/453.fd1fb38f.chunk.js",
+    "index.html": "/CF-Lens/index.html",
+    "main.f855e6bc.css.map": "/CF-Lens/static/css/main.f855e6bc.css.map",
+    "main.978698eb.js.map": "/CF-Lens/static/js/main.978698eb.js.map",
+    "453.fd1fb38f.chunk.js.map": "/CF-Lens/static/js/453.fd1fb38f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.978698eb.js"
+  ]
+}
